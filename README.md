@@ -23,28 +23,22 @@
 
 <hr>
 
-👋 About Me
-
-🎓 B.E. Computer Science and Engineering student at Chennai Institute of Technology
-
-📚 Currently in my 3rd year, 5th semester
-
-💻 Focused on Software Development, AI/ML, Cloud Computing, and Full-Stack Development
-
-🧠 Building practical projects across AI, IoT, Blockchain, and Web Development
-
-🏆 3-time hackathon finalist, including a National Finalist achievement
-
-☁️ AWS Certified Cloud Practitioner and AWS Certified AI Practitioner
-
-🌱 Currently strengthening DSA, software engineering, and system-building skills
+<h2>👋 About Me</h2>
+<ul>
+<li>🎓 <strong>B.E. Computer Science and Engineering</strong> student at <strong>Chennai Institute of Technology</strong></li>
+<li>📚 Currently in my <strong>3rd year, 5th semester</strong></li>
+<li>💻 Focused on <strong>Software Development, AI/ML, Cloud Computing, and Full-Stack Development</strong></li>
+<li>🧠 Building practical projects across <strong>AI, IoT, Blockchain, and Web Development</strong></li>
+<li>🏆 <strong>3-time hackathon finalist</strong>, including a <strong>National Finalist</strong> achievement</li>
+<li>☁️ <strong>AWS Certified Cloud Practitioner</strong> and <strong>AWS Certified AI Practitioner</strong></li>
+<li>🌱 Currently strengthening <strong>DSA, software engineering, and system-building skills</strong></li>
+</ul>
 
 <hr>
 
-💻 Tech Stack
+<h2>💻 Tech Stack</h2>
 
-Languages
-
+<h3>Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -55,8 +49,7 @@ Languages
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-Artificial Intelligence & Machine Learning
-
+<h3>Artificial Intelligence & Machine Learning</h3>
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
@@ -65,16 +58,14 @@ Artificial Intelligence & Machine Learning
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 </p>
 
-Frontend
-
+<h3>Frontend</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
 
-Backend & Databases
-
+<h3>Backend & Databases</h3>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
@@ -85,8 +76,7 @@ Backend & Databases
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 
-Cloud & Development
-
+<h3>Cloud & Development</h3>
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -95,9 +85,8 @@ Cloud & Development
 
 <hr>
 
-🚀 Featured Projects
-
-🤖 AI Revenue Recovery Agent
+<h2>🚀 Featured Projects</h2>
+### 🤖 [AI Revenue Recovery Agent](https://github.com/srijithr03/AI-Revenue-Recovery-Agent)
 
 AI-powered revenue recovery system that analyzes failed payments, estimates recovery opportunities, applies business constraints, and helps choose smarter recovery strategies.
 
@@ -123,8 +112,7 @@ Tech: ESP32 · C++ · React · Vite · Node.js · Express.js · MongoDB · Socke
 
 <hr>
 
-🧠 DSA & Competitive Programming
-
+<h2>🧠 DSA & Competitive Programming</h2>
 Actively improving problem-solving skills in:
 
 Arrays · Binary Search · Two Pointers · Sliding Window · Linked Lists · Trees · Graphs · BFS · DFS · Greedy · Dynamic Programming
@@ -143,32 +131,25 @@ Arrays · Binary Search · Two Pointers · Sliding Window · Linked Lists · Tre
 
 <hr>
 
-🏆 Hackathons & Achievements
-
-🏅 Hackfinity Hackathon — Finalist · Saveetha · Apr 2025
-
-🏅 Handloom Hackathon — National Finalist · Ministry of Textiles · Aug 2025
-
-🏅 Sense Hack — Finalist · Vellore Institute of Technology · Dec 2025
+<h2>🏆 Hackathons & Achievements</h2>
+- 🏅 **Hackfinity Hackathon — Finalist** · Saveetha · Apr 2025
+- 🏅 **Handloom Hackathon — National Finalist** · Ministry of Textiles · Aug 2025
+- 🏅 **Sense Hack — Finalist** · Vellore Institute of Technology · Dec 2025
 
 <hr>
 
-📜 Certifications
-
-☁️ AWS Certified Cloud Practitioner
-
-🤖 AWS Certified AI Practitioner
+<h2>📜 Certifications</h2>
+- ☁️ **AWS Certified Cloud Practitioner**
+- 🤖 **AWS Certified AI Practitioner**
 
 <hr>
 
-📚 Currently Learning
-
-Advanced DSA · AWS Cloud · Software Engineering · System Design · Machine Learning · Full-Stack Development
+<h2>📚 Currently Learning</h2>
+`Advanced DSA` · `AWS Cloud` · `Software Engineering` · `System Design` · `Machine Learning` · `Full-Stack Development`
 
 <hr>
 
-📊 GitHub Stats
-
+<h2>📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srijithr03&theme=tokyonight" height="170" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srijithr03&theme=tokyonight" height="170" alt="Top Languages" />
@@ -176,24 +157,21 @@ Advanced DSA · AWS Cloud · Software Engineering · System Design · Machine Le
 
 <hr>
 
-🔥 Contribution Streak
-
+<h2>🔥 Contribution Streak</h2>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=srijithr03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <hr>
 
-📈 GitHub Activity
-
+<h2>📈 GitHub Activity</h2>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srijithr03&theme=tokyonight" width="95%" alt="GitHub Activity" />
 </p>
 
 <hr>
 
-📫 Connect With Me
-
+<h2>📫 Connect With Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/srijith-r-9bb053340/">
     <img src="https://img.shields.io/badge/LinkedIn-Srijith_R-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
