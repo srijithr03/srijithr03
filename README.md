@@ -21,6 +21,8 @@
   </a>
 </p>
 
+<hr>
+
 👋 About Me
 
 🎓 B.E. Computer Science and Engineering student at Chennai Institute of Technology
@@ -36,6 +38,8 @@
 ☁️ AWS Certified Cloud Practitioner and AWS Certified AI Practitioner
 
 🌱 Currently strengthening my DSA, software engineering, and system-building skills
+
+<hr>
 
 💻 Tech Stack
 
@@ -89,6 +93,8 @@ Cloud & Development
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
+<hr>
+
 🚀 Featured Projects
 
 🤖 AI Revenue Recovery Agent
@@ -139,6 +145,8 @@ Tech: ESP32 · C++ · React · Vite · Node.js · Express.js · MongoDB · Socke
   </a>
 </p>
 
+<hr>
+
 🧠 DSA / Competitive Programming
 
 Actively improving problem-solving skills across:
@@ -157,6 +165,8 @@ Arrays · Binary Search · Two Pointers · Sliding Window · Linked Lists · Tre
   </a>
 </p>
 
+<hr>
+
 🏆 Hackathons & Achievements
 
 🏅 Hackfinity Hackathon — Finalist · Saveetha · Apr 2025
@@ -165,19 +175,27 @@ Arrays · Binary Search · Two Pointers · Sliding Window · Linked Lists · Tre
 
 🏅 Sense Hack — Finalist · Vellore Institute of Technology · Dec 2025
 
+<hr>
+
 📜 Certifications
 
 ☁️ AWS Certified Cloud Practitioner
 
 🤖 AWS Certified AI Practitioner
 
+<hr>
+
 📚 Currently Learning
 
 Advanced DSA · AWS Cloud · Software Engineering · System Design · Machine Learning · Full-Stack Development
 
+<hr>
+
 🎯 Career Goal
 
 I'm working towards becoming a strong Software Developer, with a focus on building scalable applications and practical solutions using AI, cloud technologies, and full-stack development.
+
+<hr>
 
 📊 GitHub Stats
 
@@ -186,17 +204,23 @@ I'm working towards becoming a strong Software Developer, with a focus on buildi
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srijithr03&theme=tokyonight" height="170" alt="Top Languages" />
 </p>
 
+<hr>
+
 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=srijithr03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<hr>
+
 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srijithr03&theme=tokyonight" width="95%" alt="GitHub Activity" />
 </p>
+
+<hr>
 
 📫 Connect With Me
 
@@ -211,6 +235,8 @@ I'm working towards becoming a strong Software Developer, with a focus on buildi
     <img src="https://img.shields.io/badge/GitHub-srijithr03-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+<hr>
 
 <p align="center">
   <i>⭐ Thanks for visiting my profile!</i>
