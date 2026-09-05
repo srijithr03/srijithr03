@@ -93,35 +93,51 @@ Cloud & Development
 
 🤖 AI Revenue Recovery Agent
 
-An AI-driven revenue recovery system that treats failed-payment recovery as a constrained decision problem. It diagnoses failures, estimates incremental recovery uplift, allocates limited customer-contact budgets, applies policy rules, and evaluates decisions against control and naive retry baselines.
+An AI-driven revenue recovery system designed to make smarter decisions around failed payments by diagnosing failures, estimating recovery opportunities, applying policy constraints, and evaluating recovery strategies.
 
-Tech: Python · FastAPI · Scikit-Learn · Pandas · NumPy · React · Vite · Razorpay integration
+Tech: Python · FastAPI · Scikit-Learn · Pandas · NumPy · React · Vite
 
-🔗 View Repository
+<p>
+  <a href="https://github.com/srijithr03/AI-Revenue-Recovery-Agent">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 🤖 AutoCorp — Autonomous Micro-Enterprise Platform
 
-A collaborative agentic AI and blockchain project that automates the lifecycle of micro-enterprises. Its multi-agent system uses Gemini-powered agents for business orchestration and executes activities through smart contracts on Ethereum Sepolia.
+A collaborative agentic AI and blockchain project that explores how autonomous AI agents can coordinate business activities and execute workflows through smart contracts.
 
-Tech: Python · FastAPI · TypeScript · Express.js · Next.js · Gemini · ReAct · Solidity · Ethereum
+Tech: Python · FastAPI · TypeScript · Next.js · Gemini · Solidity · Ethereum
 
-🔗 View Repository
+<p>
+  <a href="https://github.com/Devarajan-Maheshwaran/AutoCorp">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-🔐 SecureDesign — Weaver Design Protection System
+🔐 SecureDesign — Textile Design Protection
 
-A machine learning and blockchain platform designed to protect original textile designs. It uses EfficientNet and perceptual hashing to detect duplicate designs, while Ethereum smart contracts provide immutable ownership registration and verification.
+A machine learning and blockchain platform for protecting original textile designs through design similarity detection, ownership registration, and blockchain-based verification.
 
 Tech: Python · Flask · TensorFlow · Keras · MongoDB · JavaScript · Solidity · Ethereum
 
-🔗 View Repository
+<p>
+  <a href="https://github.com/srijithr03/SecureDesign">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-💧 AquaSense — Smart Water Monitoring & Conservation
+💧 AquaSense — Smart Water Monitoring
 
-An IoT-based water monitoring system built with ESP32 that tracks water usage in real time, detects abnormal consumption and possible leaks, and provides AI-powered conservation recommendations through a web dashboard.
+An IoT-based water monitoring system using ESP32 to track water usage, identify abnormal consumption, and provide intelligent water-conservation insights through a web dashboard.
 
-Tech: ESP32 · C++ · React · Vite · Node.js · Express.js · MongoDB · Socket.io · Google GenAI
+Tech: ESP32 · C++ · React · Vite · Node.js · Express.js · MongoDB · Socket.io
 
-🔗 View Repository
+<p>
+  <a href="https://github.com/srijithr03/AquaSense">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 🧠 DSA / Competitive Programming
 
