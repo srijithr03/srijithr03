@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Srijith R 👋</h1>
 
-<h3 align="center">CSE Student @ CIT | Software Developer | DSA | Full-Stack | Cloud | AI/ML</h3>
+<h3 align="center">CSE Student @ CIT · Software Developer · DSA · Full-Stack · Cloud · AI/ML</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+real-world+software+solutions;Exploring+AI+%2B+Cloud+technologies;Developing+full-stack+applications;Improving+DSA+and+software+engineering+skills" alt="Typing SVG" />
@@ -23,38 +23,32 @@
 
 👋 About Me
 
-<ul>
-<li>🎓 <strong>B.E. Computer Science and Engineering</strong> student at <strong>Chennai Institute of Technology</strong></li>
-<li>📚 Currently in my <strong>3rd year, 5th semester</strong></li>
-<li>💻 Focused on <strong>Software Development, AI/ML, Cloud Computing, and Full-Stack Development</strong></li>
-<li>🧠 Building practical projects across <strong>AI, IoT, Blockchain, and Web Development</strong></li>
-<li>🏆 <strong>3-time hackathon finalist</strong>, including a <strong>National Finalist</strong> achievement</li>
-<li>☁️ <strong>AWS Certified Cloud Practitioner</strong> and <strong>AWS Certified AI Practitioner</strong></li>
-<li>🌱 Currently strengthening <strong>DSA, software engineering, and system-building skills</strong></li>
-</ul>
+🎓 B.E. Computer Science and Engineering student at Chennai Institute of Technology
+
+📚 Currently in my 3rd year, 5th semester
+
+💻 Focused on Software Development, AI/ML, Cloud Computing, and Full-Stack Development
+
+🧠 Building practical projects across AI, IoT, Blockchain, and Web Development
+
+🏆 3-time hackathon finalist, including a National Finalist achievement
+
+☁️ AWS Certified Cloud Practitioner and AWS Certified AI Practitioner
+
+🌱 Currently strengthening DSA, software engineering, and system-building skills
 
 💻 Tech Stack
 
 Languages
 
 <p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
-Artificial Intelligence & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
 </p>
 
 Frontend
@@ -75,6 +69,16 @@ Backend & Databases
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
+
+AI / Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 </p>
 
 Cloud & Development
@@ -111,7 +115,7 @@ IoT-based smart water monitoring system using ESP32 to track usage, identify abn
 
 Tech: ESP32 · C++ · React · Vite · Node.js · Express.js · MongoDB · Socket.io
 
-🧠 DSA & Competitive Programming
+🧠 DSA / Competitive Programming
 
 Actively improving problem-solving skills in:
 
