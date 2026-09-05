@@ -1,9 +1,9 @@
 <h1 align="center">Hey, I'm Srijith R 👋</h1>
 
-<h3 align="center">CSE Student · Software Developer · AI, Cloud & Full-Stack Enthusiast</h3>
+<h3 align="center">CSE Student @ CIT | Software Developer | DSA | Full-Stack | Cloud | AI/ML</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+real-world+software+solutions;Exploring+AI+%2B+Cloud+technologies;Developing+full-stack+applications;Learning+DSA+and+software+engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+real-world+software+solutions;Exploring+AI+%2B+Cloud+technologies;Developing+full-stack+applications;Improving+DSA+and+software+engineering+skills" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,15 +29,15 @@
 
 📚 Currently in my 3rd year, 5th semester
 
-💻 Interested in Software Development, AI/ML, Cloud Computing, and Full-Stack Development
+💻 Focused on Software Development, AI/ML, Cloud Computing, and Full-Stack Development
 
-🧠 Building projects that combine software, AI, IoT, and blockchain to solve practical problems
+🧠 Building practical projects across AI, IoT, Blockchain, and Web Development
 
 🏆 3-time hackathon finalist, including a National Finalist achievement
 
 ☁️ AWS Certified Cloud Practitioner and AWS Certified AI Practitioner
 
-🌱 Currently strengthening my DSA, software engineering, and system-building skills
+🌱 Currently strengthening DSA, software engineering, and system-building skills
 
 <hr>
 
@@ -99,57 +99,33 @@ Cloud & Development
 
 🤖 AI Revenue Recovery Agent
 
-An AI-driven revenue recovery system designed to make smarter decisions around failed payments by diagnosing failures, estimating recovery opportunities, applying policy constraints, and evaluating recovery strategies.
+AI-powered revenue recovery system that analyzes failed payments, estimates recovery opportunities, applies business constraints, and helps choose smarter recovery strategies.
 
 Tech: Python · FastAPI · Scikit-Learn · Pandas · NumPy · React · Vite
 
-<p>
-  <a href="https://github.com/srijithr03/AI-Revenue-Recovery-Agent">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+🤖 AutoCorp
 
-🤖 AutoCorp — Autonomous Micro-Enterprise Platform
-
-A collaborative agentic AI and blockchain project that explores how autonomous AI agents can coordinate business activities and execute workflows through smart contracts.
+Collaborative agentic AI and blockchain project exploring autonomous business workflows through AI agents and smart contracts.
 
 Tech: Python · FastAPI · TypeScript · Next.js · Gemini · Solidity · Ethereum
 
-<p>
-  <a href="https://github.com/Devarajan-Maheshwaran/AutoCorp">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+🔐 SecureDesign
 
-🔐 SecureDesign — Textile Design Protection
-
-A machine learning and blockchain platform for protecting original textile designs through design similarity detection, ownership registration, and blockchain-based verification.
+AI and blockchain-based platform for protecting original textile designs through similarity detection, ownership registration, and verifiable digital records.
 
 Tech: Python · Flask · TensorFlow · Keras · MongoDB · JavaScript · Solidity · Ethereum
 
-<p>
-  <a href="https://github.com/srijithr03/SecureDesign">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+💧 AquaSense
 
-💧 AquaSense — Smart Water Monitoring
-
-An IoT-based water monitoring system using ESP32 to track water usage, identify abnormal consumption, and provide intelligent water-conservation insights through a web dashboard.
+IoT-based smart water monitoring system using ESP32 to track usage, identify abnormal consumption, and provide intelligent water-conservation insights.
 
 Tech: ESP32 · C++ · React · Vite · Node.js · Express.js · MongoDB · Socket.io
 
-<p>
-  <a href="https://github.com/srijithr03/AquaSense">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 <hr>
 
-🧠 DSA / Competitive Programming
+🧠 DSA & Competitive Programming
 
-Actively improving problem-solving skills across:
+Actively improving problem-solving skills in:
 
 Arrays · Binary Search · Two Pointers · Sliding Window · Linked Lists · Trees · Graphs · BFS · DFS · Greedy · Dynamic Programming
 
@@ -188,12 +164,6 @@ Arrays · Binary Search · Two Pointers · Sliding Window · Linked Lists · Tre
 📚 Currently Learning
 
 Advanced DSA · AWS Cloud · Software Engineering · System Design · Machine Learning · Full-Stack Development
-
-<hr>
-
-🎯 Career Goal
-
-I'm working towards becoming a strong Software Developer, with a focus on building scalable applications and practical solutions using AI, cloud technologies, and full-stack development.
 
 <hr>
 
@@ -236,8 +206,6 @@ I'm working towards becoming a strong Software Developer, with a focus on buildi
   </a>
 </p>
 
-<hr>
-
 <p align="center">
-  <i>⭐ Thanks for visiting my profile!</i>
+  <i>Thanks for visiting my profile! ⭐</i>
 </p>
